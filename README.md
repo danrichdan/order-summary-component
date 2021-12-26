@@ -24,7 +24,7 @@ Build the Component layout per Mockup
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -48,7 +48,7 @@ I learned to use custom properties.
 
 ### Continued development
 
-In order to center the component in the page I would have need to add a body height, and then media queries to account for the odd behaviors. Instead I opted to not do it exactly and not give i the height. In the future I'd like to take more time and explore how to get this done in a more responsive way.
+In the future I'd like to take more time and explore how to get this done in a more responsive way.
 
 ## Author
 
